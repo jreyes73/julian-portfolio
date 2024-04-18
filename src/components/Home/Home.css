@@ -3,6 +3,7 @@
     height: 275px;
     border-radius: 50%;
     box-shadow: 3px 3px 3px lightgray;
+    margin-bottom: 1rem;
 }
 
 .title {
@@ -18,6 +19,22 @@
 }
 
 .intro-description {
-    width: 80%;
-    text-align: center;
+    width: 100%;
+    /* text-align: center; */
+}
+
+.intro-greeting {
+    text-align: start;
+    width: 100%;
+    font-size: 3.5rem;
+    margin: 0;
+    line-height: 3.7rem;
+    font-weight: 100;
+}
+
+hr {
+    color: red;
+    width: 100%;
+    font-weight: 300;
+    margin-bottom: 2px;
 }

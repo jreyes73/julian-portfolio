@@ -7,7 +7,7 @@ export default function Root() {
     return (
         <>
             <Header/>
-            <main>
+            <main style={{margin: "1rem"}} >
                 <Outlet/>
             </main>
             <Footer/>
