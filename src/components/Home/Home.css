@@ -1,0 +1,23 @@
+.portrait {
+    width: 275px;
+    height: 275px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px lightgray;
+}
+
+.title {
+    background-color: red;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro-description {
+    width: 80%;
+    text-align: center;
+}

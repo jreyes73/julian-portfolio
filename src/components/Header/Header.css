@@ -1,0 +1,11 @@
+.navBar {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    font-weight: 700;
+    
+}
+
+.navLink {
+    text-decoration: none;
+}
