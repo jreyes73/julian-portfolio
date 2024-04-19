@@ -22,7 +22,6 @@ export default function Home() {
             <h1 className="intro-greeting">Good<br/>{greeting}!<br/>I'm <span style={{fontWeight: 700}} >Julian</span>.</h1>
             <hr/>
             <p style={{marginTop: 0, textAlign: "start", width: "100%"}} >A Content Developer & Experienced Leader</p>
-            <p>{timeNow}</p>
             <p className="intro-description">I'm thrilled to have you here. I'm Julian, a passionate adult educator and motivator dedicated to helping companies and their workers succeed. With a background in education, I bring the right tools.</p>
         </div>
         </>

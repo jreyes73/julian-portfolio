@@ -16,6 +16,16 @@
 .navLink {
     text-decoration: none;
     color: #333;
+    transition: color 3s;
+}
+
+.navLink:hover {
+    color: silver;
+    text-decoration: underline;
+}
+
+.navLink:active {
+    text-decoration-color: gold;
 }
 
 .headerBlank {
