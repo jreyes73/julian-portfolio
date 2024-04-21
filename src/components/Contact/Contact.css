@@ -1,3 +1,12 @@
+.contact-greeting {
+    text-align: start;
+    width: 100%;
+    font-size: 3.5rem;
+    margin: 5rem 0 2rem 0;
+    line-height: 3.7rem;
+    font-weight: 700;
+}
+
 .contact-container {
     width: 80%;
     margin-top: 1rem;
@@ -6,12 +15,7 @@
     box-shadow: 3px 3px lightgray;
 }
 
-.contact-greeting {
-    text-align: start;
-    width: 100%;
-    font-size: 3.5rem;
-    margin: 5rem 0 2rem 0;
-    line-height: 3.7rem;
+.contact-container p {
     font-weight: 700;
 }
 
