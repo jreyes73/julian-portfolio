@@ -15,8 +15,14 @@
 
 .navLink {
     text-decoration: none;
-    color: #333;
+    color: #FFFFFF8C;
     transition: color 3s;
+}
+
+.navLinkActive {
+    text-decoration: underline;
+    color: silver;
+    text-decoration-color: limegreen;
 }
 
 .navLink:hover {
@@ -25,7 +31,7 @@
 }
 
 .navLink:active {
-    text-decoration-color: gold;
+    text-decoration-color: lightgreen;
 }
 
 .headerBlank {
