@@ -1,8 +1,8 @@
 .contact-greeting {
     text-align: start;
-    width: 100%;
+    width: 80%;
     font-size: 3.5rem;
-    margin: 5rem 0 2rem 0;
+    margin: 1rem 0 2rem 0;
     line-height: 3.7rem;
     font-weight: 700;
 }
@@ -13,6 +13,12 @@
     border: 3px solid grey;
     padding: 1.5rem;
     box-shadow: 3px 3px lightgray;
+    
+}
+
+.flex-contact-container {
+    display: flex;
+    justify-content: center;
 }
 
 .contact-container p {
